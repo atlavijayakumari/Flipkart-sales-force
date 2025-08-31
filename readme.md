@@ -1,6 +1,4 @@
 Vijaya kumari Atla
-Sat, Aug 2, 10:28 AM 
-to me
 
 📝 Final Report – Flipkart Sales Data Analysis Project
 
@@ -165,4 +163,5 @@ Useful for inventory or marketing decisions.
 
 Atla Vijaya Kumari
 Flipkart Data Science Intern – 2025
+
 
