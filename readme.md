@@ -29,12 +29,9 @@ numpy: Numerical operations
 
 matplotlib & seaborn: Data visualizations
 
-pdfkit, tabulate (optional): Exporting reports
+VS Code: Code development environment
 
-Jupyter Notebook / VS Code: Code development environment
-
-Git & GitHub: Version control and submission
-
+GitHub: Version control and submission
 
 
 ---
@@ -160,8 +157,8 @@ Useful for inventory or marketing decisions.
 ---
 
 👩‍💻 Author & Internship Info:
-
 Atla Vijaya Kumari
 Flipkart Data Science Intern – 2025
+
 
 
