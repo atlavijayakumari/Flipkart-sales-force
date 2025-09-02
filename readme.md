@@ -127,20 +127,6 @@ python sales_analysis.py
 3. Outputs will be saved inside the outputs/ folder
 
 
-
----
-
-
-📷 Screenshots:
-
-Include your graphs
-
-Show your CSV file previews
-
-Optional: include your df.head() output
-
-
-
 ---
 
 
@@ -159,6 +145,7 @@ Useful for inventory or marketing decisions.
 👩‍💻 Author & Internship Info:
 Atla Vijaya Kumari
 Flipkart Data Science Intern – 2025
+
 
 
 
